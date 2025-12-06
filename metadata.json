@@ -1,0 +1,7 @@
+{
+  "name": "Botanist AI",
+  "description": "Your intelligent gardening assistant. Identify plants instantly from photos and chat with an AI expert for personalized care tips.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
